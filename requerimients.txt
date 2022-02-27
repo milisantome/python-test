@@ -1,0 +1,5 @@
+#python 3.8.
+#recuerde agregar en la consola el argumento del directorio junto con el nombre del archivo
+#INSTALAR:
+#!pip install openpyxl
+#!pip install sqlalchemy
